@@ -10,7 +10,7 @@ import com.example.entity.Student;
 import com.example.service.StudentService;
 
 @RestController
-@RequestMapping("/student")
+@RequestMapping("/stu")
 public class StudentController {
 
 	@Autowired
